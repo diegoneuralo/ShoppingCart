@@ -10,7 +10,7 @@ Criação de um carrinho de compras
 * HTML , CSS e Javascript (AngularJS/Bootstrap)
 
 ## *Build*
-1. Crie uma base de dados ```CREATE DATABASE zaizidb;```
+1. Crie uma base de dados ```CREATE DATABASE shoppingcart;```
 2. Configure usuário e senha ```application.properties``` file
 3. Clone este repositorio
 4. Na pasta raiz do projeto (ShoppingCart)
